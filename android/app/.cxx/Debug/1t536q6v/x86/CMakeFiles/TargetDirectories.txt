@@ -1,0 +1,2 @@
+C:/Users/Pavilion/Desktop/news_app/android/app/.cxx/Debug/1t536q6v/x86/CMakeFiles/edit_cache.dir
+C:/Users/Pavilion/Desktop/news_app/android/app/.cxx/Debug/1t536q6v/x86/CMakeFiles/rebuild_cache.dir

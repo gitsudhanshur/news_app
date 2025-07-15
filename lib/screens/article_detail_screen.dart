@@ -25,6 +25,11 @@ class ArticleDetailScreen extends StatelessWidget {
               style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 16),
+            Text(
+              article.author,
+              style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: Color.fromRGBO(0, 20, 100, 1)),
+              ),
+            SizedBox(height: 16),
             Text(article.description),
           ],
         ),
